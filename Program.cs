@@ -39,3 +39,4 @@ record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+//it was a whole lot setting things up on my MAC but i appreciate Abaniwonda and James for helping me out with utmost patience.
