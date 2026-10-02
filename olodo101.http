@@ -1,0 +1,6 @@
+@olodo101_HostAddress = http://localhost:5107
+
+GET {{olodo101_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

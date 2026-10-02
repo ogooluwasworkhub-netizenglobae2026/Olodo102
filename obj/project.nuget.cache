@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gDZCxXoPSgk=",
+  "success": true,
+  "projectFilePath": "/Users/mac/olodo101/olodo101.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
